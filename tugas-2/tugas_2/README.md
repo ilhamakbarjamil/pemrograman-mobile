@@ -65,16 +65,16 @@ lib/
 
 ## 📸 Lampiran (Screenshots)
 ### Tampilan Login Screen
-![Login Screen](assets/ss/login.png)
+![Login Screen](assets/login.png)
 
 ### Tampilan Signup Screen
-![Sign-up Screen](assets/ss/signup.png)
+![Sign-up Screen](assets/signup.png)
 
 ### Tampilan Permisson
-![Permission Screen](assets/ss/permission.png)
+![Permission Screen](assets/permission.png)
 
 ### Tampilan Halaman Utama
-![Theater Screen](assets/ss/theater.png)
+![Theater Screen](assets/theater.png)
 
 ## 👨‍💻 Kontributor
 Ilham Akbar Jamil (202310370311085) - Assignment 2 LMS
