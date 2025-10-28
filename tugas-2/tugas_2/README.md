@@ -64,9 +64,16 @@ lib/
 
 
 ## 📸 Lampiran (Screenshots)
+### Tampilan Login Screen
 ![Login Screen](assets/ss/login.png)
+
+### Tampilan Signup Screen
 ![Sign-up Screen](assets/ss/signup.png)
+
+### Tampilan Permisson
 ![Permission Screen](assets/ss/permission.png)
+
+### Tampilan Halaman Utama
 ![Theater Screen](assets/ss/theater.png)
 
 ## 👨‍💻 Kontributor
